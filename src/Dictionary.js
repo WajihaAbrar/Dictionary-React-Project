@@ -7,6 +7,8 @@ function Dictionary() {
 
   function searchWord(event) {
     event.preventDefault();
+
+    // documentation: https://dictionaryapi.dev/
     let apiUrl = `https://api.dictionaryapi.dev/api/v2/entries/en/${keyword}`;
     axios.get(apiUrl).then(handleResponse);
   }
