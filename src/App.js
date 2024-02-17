@@ -18,7 +18,24 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Wajiha Abrar</small>
+          <small>
+            The project is coded by Wajiha Abrar and open-sourced on{" "}
+            <a
+              href="https://github.com/WajihaAbrar/Dictionary-React-Project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://my-dictionary-react-project.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
+          </small>
         </footer>
       </div>
     </div>
