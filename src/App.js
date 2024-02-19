@@ -15,7 +15,7 @@ function App() {
           />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary word="sunset" />
         </main>
         <footer className="App-footer">
           <small>
