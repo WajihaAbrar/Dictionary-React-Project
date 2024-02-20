@@ -1,5 +1,5 @@
 import Dictionary from "./Dictionary";
-import dictionary from "./dictionary.png";
+import logo from "./logo.png";
 
 import "./App.css";
 
@@ -9,11 +9,13 @@ function App() {
       <div className="container">
         <header className="App-header">
           <img
-            src={dictionary}
+            src={logo}
             className="App-logo img-fluid"
             alt="Dictionary App Logo"
           />
+          <h1>Dictionary</h1>
         </header>
+
         <main>
           <Dictionary word="sunset" />
         </main>
