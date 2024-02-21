@@ -21,7 +21,15 @@ function App() {
         </main>
         <footer className="App-footer">
           <small>
-            The project is coded by Wajiha Abrar and open-sourced on{" "}
+            The project is coded with 💖 by{" "}
+            <a
+              href="https://github.com/WajihaAbrar"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Wajiha Abrar
+            </a>{" "}
+            and open-sourced on{" "}
             <a
               href="https://github.com/WajihaAbrar/Dictionary-React-Project"
               target="_blank"
