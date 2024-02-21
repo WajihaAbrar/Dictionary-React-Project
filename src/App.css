@@ -1,11 +1,8 @@
 body {
   background: lavender;
-  color: #b79659;
   color: #eb552a;
-  /* color: black; */
 }
 a {
-  color: palevioletred;
   color: #b34191;
 }
 .App {
@@ -13,21 +10,17 @@ a {
   margin: 0 auto;
 }
 .App-header {
-  color: palevioletred;
   display: flex;
   justify-content: center;
   margin: 30px 0;
 }
 .App-header h1 {
-  color: #b79659;
   color: #eb552a;
   position: relative;
   top: 10px;
 }
 .App-logo {
   max-width: 100px;
-  /* display: block;
-  margin: 10px auto; */
 }
 .App-footer {
   text-align: center;

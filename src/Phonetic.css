@@ -7,7 +7,7 @@
   text-decoration: none;
   padding: 8px 15px;
   font-size: 13px;
-  margin-right: 10px;
+  margin-right: 14px;
   font-weight: bold;
   border-radius: 20px;
   transition: all 150ms ease-in-out;
@@ -20,6 +20,6 @@
 }
 
 .Phonetic .text {
-  opacity: 0.5;
+  opacity: 0.6;
   font-weight: bold;
 }
